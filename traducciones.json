@@ -1,0 +1,11 @@
+
+[
+   {"hola": "maitei"},
+   {"HOLA": "MAITEI"},
+   {"Hola": "Maitei"},
+   {"hola, que tal": "maitei, mba'eichapa"},
+   {"hola que tal": "maitei, mba'eichapa"},
+   {"hola, donde estas": "maitei, mo'õreime"},
+   {"hola donde estas": "maitei, mo'õreime"},
+   { "que tal": "Puede decirse de distintas formas: haupei, mba'eichapa"}
+]

@@ -1,0 +1,78 @@
+body{
+    background-image: url("./img/mauricio-guardiano-_mipzpX0dHY-unsplash.jpg");
+    background-size: cover;
+}
+
+
+
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+h1:hover{
+    color: gray;
+    transition-duration: 1s;
+}
+
+.m-buscador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 80px
+}
+
+input {
+    font-size: 30px;
+    width: 400px;
+}
+
+input:hover{
+    transition-duration: 5s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(23, 12, 43);
+}
+
+button {
+    font-size: 30px;
+}
+
+.m-respuesta {
+    display: flex;
+    justify-content: center;
+}
+
+.cont{
+    background-color: white;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+.cont-ge {
+    color: green;
+    padding: 30px;
+    font-size: 20px;
+    
+}
+
+.respuesta {
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.copy {
+    font-size: 12px;
+    padding-top: 160px;
+}
